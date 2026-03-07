@@ -1,0 +1,1 @@
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==" align="right" width="150" height="150" hspace="10" vspace="10" alt="示例图片" />
